@@ -1,0 +1,40 @@
+% Encoding: UTF-8
+
+@Article{Commichaux2021,
+  author    = {Seth Commichaux and Nidhi Shah and Jay Ghurye and Alexander Stoppel and Jessica A Goodheart and Guillermo G Luque and Michael P Cummings and Mihai Pop},
+  journal   = {Bioinformatics},
+  title     = {A critical assessment of gene catalogs for metagenomic analysis},
+  year      = {2021},
+  month     = {apr},
+  doi       = {10.1093/bioinformatics/btab216},
+  editor    = {Inanc Birol},
+  publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Li2006,
+  author    = {W. Li and A. Godzik},
+  journal   = {Bioinformatics},
+  title     = {Cd-hit: a fast program for clustering and comparing large sets of protein or nucleotide sequences},
+  year      = {2006},
+  month     = {may},
+  number    = {13},
+  pages     = {1658--1659},
+  volume    = {22},
+  doi       = {10.1093/bioinformatics/btl158},
+  publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Li2014,
+  author    = {Junhua Li and and Huijue Jia and Xianghang Cai and Huanzi Zhong and Qiang Feng and Shinichi Sunagawa and Manimozhiyan Arumugam and Jens Roat Kultima and Edi Prifti and Trine Nielsen and Agnieszka Sierakowska Juncker and Chaysavanh Manichanh and Bing Chen and Wenwei Zhang and Florence Levenez and Juan Wang and Xun Xu and Liang Xiao and Suisha Liang and Dongya Zhang and Zhaoxi Zhang and Weineng Chen and Hailong Zhao and Jumana Yousuf Al-Aama and Sherif Edris and Huanming Yang and Jian Wang and Torben Hansen and Henrik Bj{\o}rn Nielsen and S{\o}ren Brunak and Karsten Kristiansen and Francisco Guarner and Oluf Pedersen and Joel Dor{\'{e}} and S Dusko Ehrlich and Peer Bork and Jun Wang},
+  journal   = {Nature Biotechnology},
+  title     = {An integrated catalog of reference genes in the human gut microbiome},
+  year      = {2014},
+  month     = {jul},
+  number    = {8},
+  pages     = {834--841},
+  volume    = {32},
+  doi       = {10.1038/nbt.2942},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
